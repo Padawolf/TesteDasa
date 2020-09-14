@@ -26,4 +26,4 @@ bundle install
 
 3 - Para rodar a automação digite o comando:
 cucumber 
-Para escolher o navegador comentar/descomentar no arquivo `features/support/hooks.rb` a linha referente ao Firefox ou Chrome
+Obs: Para escolher o navegador comentar/descomentar no arquivo `features/support/hooks.rb` a linha referente ao Firefox ou Chrome
